@@ -1,0 +1,11 @@
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\bin\Debug\Objects.exe.config
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\bin\Debug\Objects.exe
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\bin\Debug\Objects.pdb
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\bin\Debug\Objects.xml
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\obj\Debug\Objects.vbprojAssemblyReference.cache
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\obj\Debug\MyCodeWidgets.Resources.resources
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\obj\Debug\Objects.vbproj.GenerateResource.cache
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\obj\Debug\Objects.vbproj.CoreCompileInputs.cache
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\obj\Debug\Objects.exe
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\obj\Debug\Objects.xml
+C:\Users\cs_wx\Source\Repos\Exercise Project\Chapter10\Objects\obj\Debug\Objects.pdb

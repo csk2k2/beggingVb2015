@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MessageBox Buttons", "MessageBox Buttons\MessageBox Buttons.vbproj", "{3AE79B6B-9DB6-4F52-9185-880D1E0A11A6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Windows Forms Dialogs", "Windows Forms Dialogs\Windows Forms Dialogs.vbproj", "{58EEB0B0-BA99-4BAD-B985-22183BDCEFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE79B6B-9DB6-4F52-9185-880D1E0A11A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE79B6B-9DB6-4F52-9185-880D1E0A11A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE79B6B-9DB6-4F52-9185-880D1E0A11A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE79B6B-9DB6-4F52-9185-880D1E0A11A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EEB0B0-BA99-4BAD-B985-22183BDCEFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EEB0B0-BA99-4BAD-B985-22183BDCEFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EEB0B0-BA99-4BAD-B985-22183BDCEFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EEB0B0-BA99-4BAD-B985-22183BDCEFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E1F2830-2261-4458-93F8-0AE44BF40A95}
+	EndGlobalSection
+EndGlobal
